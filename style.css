@@ -1,0 +1,9 @@
+.site-nav {
+  background-color: aqua;
+  display: flex;
+  justify-content: space-between;
+}
+
+.footertext {
+  background-color: rgb(78, 114, 114);
+}
