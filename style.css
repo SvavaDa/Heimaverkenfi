@@ -1,5 +1,24 @@
+.fyrirsogn {
+  background-image: url("myndir/mynd1.jpg");
+      background-size: auto; 
+      background-position: center;
+      color: white;             
+      padding: 40px;    }       
+
+ 
+
+
 .site-nav {
-  background-color: aqua;
+  background-color: rgb(223, 195, 219);
+  display: flex;
+  justify-content: space-between;
+  border-style: solid;
+  padding: 20px;
+  color: thistle;
+
+}
+
+.um_mig{
   display: flex;
   justify-content: space-between;
 }
@@ -7,3 +26,4 @@
 .footertext {
   background-color: rgb(78, 114, 114);
 }
+
